@@ -1,0 +1,19 @@
+*{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(240, 233, 225);
+}
+
+
+body{
+    margin-left: 100px;
+    margin-right: 300px;
+}
+
+img{
+    width: 500px;
+}
+
+p{ 
+    text-align: justify;
+   }
